@@ -20,10 +20,9 @@ I'm actively looking to collaborate on exciting web development projects. If you
 - 🟢 WhatsApp: [+2349122656254](https://wa.me/2349122656254)
 - 📞 Call: [+2349122656254](tel:+2349122656254)
 
-// When you finally fix a bug...
-console.log("It works on my machine!");
-
-// Famous last words of every developer 😅
+### Humor your ribs
+- When you finally fix a bug...
+> console.log("It works on my machine!"); ~ Famous last words of every developer 😅
 
 
 Let’s build something amazing together 💻✨
