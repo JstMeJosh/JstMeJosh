@@ -1,7 +1,8 @@
-![grok-image-4922bd78-5a6a-4a80-8d2d-c3139833029c](https://github.com/user-attachments/assets/0ff28ac3-ccd9-4211-a736-2e1a19676276)## Hi there 👋
+## Hi there 👋
 
 
 # 👋 Hello, I'm @JstMeJosh
+![grok-image-4922bd78-5a6a-4a80-8d2d-c3139833029c](https://github.com/user-attachments/assets/dead21d5-52fa-4fb6-96ea-ef47413e9950)
 
 ## 👨‍💻 About Me
 I'm a passionate Junior MERN Stack Developer with a growing love for all things programming. Whether it's building sleek front-end interfaces or crafting robust back-end systems, I'm always eager to learn and level up.
