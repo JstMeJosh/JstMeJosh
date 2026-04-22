@@ -3,46 +3,33 @@
 
 ---
 
-## 👨‍💻 Professional Summary
-I am a Software Developer specialized in the **MERN Stack**, currently studying at the University of Lagos. I focus on bridging the gap between front-end aesthetics and back-end scalability. My goal is to move beyond simple implementations to architecting robust, secure, and production-ready systems.
+## 👨‍💻 Profile
+I am a software developer and student at the University of Lagos, Faculty of Education. My engineering philosophy is centered on building systems that are not just functional, but architecturally sound. I specialize in the **MERN Stack**, with a deep interest in backend security, data integrity, and scalable systems.
 
-- 🚀 **Currently exploring:** Advanced System Design and Microservices.
-- 🔐 **Core Focus:** Data Integrity (Zod), Authentication (JWT/OTP), and Backend Architecture.
-- ⚡ **Philosophy:** Code is read much more often than it is written; keep it clean.
+- 🏗️ **Current Focus:** Transitioning from full-stack implementation to Senior Systems Architecture.
+- 🛠️ **Core Expertise:** Building production-ready solutions using MongoDB, Express, React, and Node.js.
+- 🎯 **Goal:** Mastering the "Why" behind the code—prioritizing architectural patterns over "vibe coding."
 
 ---
 
 ### 🛠️ Tech Stack & Ecosystem
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| **Backend** | ![Node](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![Zod](https://img.shields.io/badge/-Zod-3068b7?logo=zod&logoColor=white) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
-| **Workflow** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white) |
+**Frontend Mastery**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
----
-
-## 📊 Performance Metrics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JstMeJosh&show_icons=true&theme=omni&hide_border=true&hide=grade&count_private=true" alt="Josh's Stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JstMeJosh&layout=compact&theme=omni&hide_border=true" alt="Top Languages" height="170px" />
-</p>
-
-### 🏆 Coding Achievements
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=JstMeJosh&theme=radical&no-bg=true&margin-w=15&column=4)
+**Backend & Architecture**
+![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Zod](https://img.shields.io/badge/-Zod-3068b7?style=flat-square&logo=zod&logoColor=white) ![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
 
 ---
 
 ## 📬 Connectivity
-I'm always open to technical discussions or collaborating on innovative web solutions.
-- **WhatsApp:** [+2349122656254](https://wa.me/2349122656254)
-- **Direct Line:** [+2349122656254](tel:+2349122656254)
+I’m actively looking to collaborate on professional-grade web projects and architectural challenges.
+
+- **WhatsApp/Call:** [+2349122656254](https://wa.me/2349122656254)
 - **Email:** [Joshuannorom2005@gmail.com](mailto:Joshuannorom2005@gmail.com)
 
 ---
 
-### 💡 The Developer's Dilemma
-> **User:** "It’s not working."
-> **Developer:** "That's strange, it works on my machine."
-> **User:** "We're not shipping your machine!"
+### 💡 Developer Logic
+> **Q:** How many programmers does it take to change a lightbulb?
+> **A:** None, that's a hardware problem.
