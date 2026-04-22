@@ -1,66 +1,48 @@
 # 👋 Hello, I'm JstMeJosh
-**MERN Stack Developer | Aspiring Full-Stack Architect | Problem Solver**
+**MERN Stack Developer | Aspiring Full-Stack Architect**
 
+---
+
+## 👨‍💻 Professional Summary
+I am a Software Developer specialized in the **MERN Stack**, currently studying at the University of Lagos. I focus on bridging the gap between front-end aesthetics and back-end scalability. My goal is to move beyond simple implementations to architecting robust, secure, and production-ready systems.
+
+- 🚀 **Currently exploring:** Advanced System Design and Microservices.
+- 🔐 **Core Focus:** Data Integrity (Zod), Authentication (JWT/OTP), and Backend Architecture.
+- ⚡ **Philosophy:** Code is read much more often than it is written; keep it clean.
+
+---
+
+### 🛠️ Tech Stack & Ecosystem
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| **Backend** | ![Node](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![Zod](https://img.shields.io/badge/-Zod-3068b7?logo=zod&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
+| **Workflow** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white) |
+
+---
+
+## 📊 Performance Metrics
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=JstMeJosh&color=39FF14&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JstMeJosh&show_icons=true&theme=omni&hide_border=true&hide=grade&count_private=true" alt="Josh's Stats" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JstMeJosh&layout=compact&theme=omni&hide_border=true" alt="Top Languages" height="170px" />
 </p>
 
----
-
-## 👨‍💻 About Me
-I'm a dedicated **Software Developer** focused on the MERN stack, currently pursuing my studies at the University of Lagos. I specialize in building scalable web applications and am currently transitioning from writing functional code to mastering **System Design and Architecture**.
-
-- 🔭 I’m currently working on building secure, production-ready backend systems.
-- 🌱 I’m currently learning **System Design**, **Advanced Security Patterns**, and **Scalable Database Indexing**.
-- 👯 I’m looking to collaborate on open-source projects and high-impact web solutions.
-- ⚡ Fun fact: I spend as much time naming my variables as I do writing the actual logic.
+### 🏆 Coding Achievements
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=JstMeJosh&theme=radical&no-bg=true&margin-w=15&column=4)
 
 ---
 
-### 🛠️ Tech Stack & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <br>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/axios-671ddf?style=for-the-badge&logo=axios&logoColor=white" />
-  <img src="https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+## 📬 Connectivity
+I'm always open to technical discussions or collaborating on innovative web solutions.
+- **WhatsApp:** [+2349122656254](https://wa.me/2349122656254)
+- **Direct Line:** [+2349122656254](tel:+2349122656254)
+- **Email:** [Joshuannorom2005@gmail.com](mailto:Joshuannorom2005@gmail.com)
 
 ---
 
-## 📊 GitHub Analytics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JstMeJosh&show_icons=true&theme=neon&hide_border=true&hide=grade&count_private=true" alt="Josh's Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JstMeJosh&layout=compact&theme=neon&hide_border=true" alt="Top Languages" height="180px" />
-</p>
-
-### 📈 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JstMeJosh&theme=neon-dark&hide_border=true" alt="GitHub Streak" width="100%" />
-</p>
-
-### 🐍 My Contributions in Motion
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JstMeJosh/JstMeJosh/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JstMeJosh/JstMeJosh/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JstMeJosh/JstMeJosh/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-## 📬 Let's Connect
-I'm always open to discussing new projects or career opportunities.
-- 🟢 **WhatsApp:** [+2349122656254](https://wa.me/2349122656254)
-- 📞 **Call:** [+2349122656254](tel:+2349122656254)
-- 📧 **Email:** [Joshuannorom2005@gmail.com](mailto:Joshuannorom2005@gmail.com)
-
----
-
-### 💡 Developer Wisdom
-> **Why do programmers prefer dark mode?** > Because light attracts bugs! 🪳🚫
+### 💡 The Developer's Dilemma
+> **User:** "It’s not working."
+> **Developer:** "That's strange, it works on my machine."
+> **User:** "We're not shipping your machine!"
