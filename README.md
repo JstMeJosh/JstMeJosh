@@ -3,33 +3,31 @@
 
 ---
 
-## 👨‍💻 Profile
-I am a software developer and student at the University of Lagos, Faculty of Education. My engineering philosophy is centered on building systems that are not just functional, but architecturally sound. I specialize in the **MERN Stack**, with a deep interest in backend security, data integrity, and scalable systems.
+## 👨‍💻 Engineering Profile
+I am a Software Developer driven by the challenge of architecting scalable, production-ready systems. I specialize in the **MERN Stack**, moving beyond functional coding to implement deep security patterns, strict data integrity, and clean system design.
 
-- 🏗️ **Current Focus:** Transitioning from full-stack implementation to Senior Systems Architecture.
-- 🛠️ **Core Expertise:** Building production-ready solutions using MongoDB, Express, React, and Node.js.
-- 🎯 **Goal:** Mastering the "Why" behind the code—prioritizing architectural patterns over "vibe coding."
+* 🏗️ **Vision:** Transitioning from full-stack development to high-level Systems Architecture.
+* 🔐 **Core focus:** Secure JWT authentication, middleware patterns, and Zod validation.
+* ⚡ **Philosophy:** Writing code that is as performant as it is readable.
 
 ---
 
 ### 🛠️ Tech Stack & Ecosystem
 
-**Frontend Mastery**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Backend & Architecture**
-![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Zod](https://img.shields.io/badge/-Zod-3068b7?style=flat-square&logo=zod&logoColor=white) ![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
-
----
-
-## 📬 Connectivity
-I’m actively looking to collaborate on professional-grade web projects and architectural challenges.
-
-- **WhatsApp/Call:** [+2349122656254](https://wa.me/2349122656254)
-- **Email:** [Joshuannorom2005@gmail.com](mailto:Joshuannorom2005@gmail.com)
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Backend** | ![Node](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Zod](https://img.shields.io/badge/-Zod-3068b7?style=for-the-badge&logo=zod&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **Workflow** | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white) |
 
 ---
 
-### 💡 Developer Logic
-> **Q:** How many programmers does it take to change a lightbulb?
-> **A:** None, that's a hardware problem.
+## 📊 Analytics & Proficiency
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JstMeJosh&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=6" alt="Top Languages" height="180px" />
+</p>
+
+---
+
+## 📬
