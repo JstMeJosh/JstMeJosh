@@ -2,6 +2,13 @@
 
 # 👋 Hello, I'm JstMeJosh
 
+### 🛠️ Tech Stack & Tools
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Axios](https://img.shields.io/badge/axios-671ddf?style=for-the-badge&logo=axios&logoColor=white)
+![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
 ## 👨‍💻 About Me
 I'm a passionate Junior MERN Stack Developer with a growing love for all things programming. Whether it's building sleek front-end interfaces or crafting robust back-end systems, I'm always eager to learn and level up.
 
