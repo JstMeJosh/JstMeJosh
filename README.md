@@ -24,22 +24,22 @@ I am a Software Developer driven by the challenge of architecting scalable, prod
 ---
 
 ## 📈 Technical Proficiency
-Below is a breakdown of my comprehensive skill levels across the stack:
+*A visual representation of my comprehensive growth and technical depth.*
 
-**HTML5 / CSS3**
-![90%](https://progress-bar.dev/90/?title=Mastery&color=E34F26)
+**Frontend Fundamentals (HTML5/CSS3)**
+![90%](https://img.shields.io/badge/Progress-█████████░-E34F26?style=flat-square) **90%**
 
-**JavaScript (ES6+)**
-![85%](https://progress-bar.dev/85/?title=Logic&color=F7DF1E)
+**JavaScript Logic (ES6+)**
+![85%](https://img.shields.io/badge/Progress-████████░░-F7DF1E?style=flat-square) **85%**
 
-**React & Tailwind**
-![80%](https://progress-bar.dev/80/?title=Frontend&color=61DAFB)
+**React Framework & Tailwind**
+![80%](https://img.shields.io/badge/Progress-████████░░-61DAFB?style=flat-square) **80%**
 
-**Node.js & Express**
-![75%](https://progress-bar.dev/75/?title=Architecture&color=339933)
+**Node.js & Backend Architecture**
+![75%](https://img.shields.io/badge/Progress-███████░░░-339933?style=flat-square) **75%**
 
 **MongoDB & System Design**
-![70%](https://progress-bar.dev/70/?title=Backend&color=47A248)
+![70%](https://img.shields.io/badge/Progress-███████░░░-47A248?style=flat-square) **70%**
 
 ---
 
@@ -60,4 +60,4 @@ I am always open to discussing advanced backend patterns or collaborating on imp
 ---
 
 ### 💡 Developer Wisdom
-> **"Programming is 10% writing code and 90% understanding why the 10% you wrote isn't working."**
+> **"Code is like humor. When you have to explain it, it’s bad."**
