@@ -8,7 +8,7 @@ I am a Software Developer driven by the challenge of architecting scalable, prod
 
 * 🏗️ **Vision:** Transitioning from full-stack development to high-level Systems Architecture.
 * 🔐 **Core Focus:** Secure JWT authentication, middleware patterns, and Zod validation.
-* ⚡ **Philosophy:** Writing code that is as performant as it is readable.
+* ⚡ **Philosophy:** Code is read much more often than it is written; keep it clean.
 
 ---
 
@@ -23,8 +23,18 @@ I am a Software Developer driven by the challenge of architecting scalable, prod
 
 ---
 
+## 🎯 Architectural Roadmap
+*The path from Developer to Systems Architect.*
+
+- [x] **MERN Stack Mastery:** Building and deploying full-stack production apps.
+- [x] **Secure Auth Patterns:** Implementing JWT, OTP, and Bcrypt security.
+- [ ] **DevOps & Cloud:** Mastering Docker, CI/CD, and AWS/Vercel deployments.
+- [ ] **TypeScript Conversion:** Transitioning entire stack to strictly typed systems.
+- [ ] **System Design:** Studying load balancing, microservices, and distributed systems.
+
+---
+
 ## 📈 Technical Proficiency
-*A visual representation of my comprehensive growth and technical depth.*
 
 **Frontend Fundamentals (HTML5/CSS3)**
 ![90%](https://img.shields.io/badge/Progress-█████████░-E34F26?style=flat-square) **90%**
@@ -51,11 +61,9 @@ I am a Software Developer driven by the challenge of architecting scalable, prod
 ---
 
 ## 📬 Let's Connect
-I am always open to discussing advanced backend patterns or collaborating on impactful projects.
-
-* 🟢 **WhatsApp:** [+2349122656254](https://wa.me/2349122656254)
-* 📞 **Call:** [+2349122656254](tel:+2349122656254)
-* 📧 **Email:** [Joshuannorom2005@gmail.com](mailto:Joshuannorom2005@gmail.com)
+- 🟢 **WhatsApp:** [+2349122656254](https://wa.me/2349122656254)
+- 📞 **Call:** [+2349122656254](tel:+2349122656254)
+- 📧 **Email:** [Joshuannorom2005@gmail.com](mailto:Joshuannorom2005@gmail.com)
 
 ---
 
