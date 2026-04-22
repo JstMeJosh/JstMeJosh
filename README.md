@@ -19,6 +19,8 @@ I'm actively looking to collaborate on exciting web development projects. If you
 ## 📬 Contact Me
 - 🟢 WhatsApp: [+2349122656254](https://wa.me/2349122656254)
 - 📞 Call: [+2349122656254](tel:+2349122656254)
+### GitHub streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=J'st%20me%20Josh%20&theme=neon-dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ### Humor your ribs
 - When you finally fix a bug...
