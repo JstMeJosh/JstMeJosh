@@ -34,7 +34,7 @@ I'm actively looking to collaborate on exciting web development projects. If you
 [![GitHub Streak](https://streak-stats.demolab.com?user=J'st%20me%20Josh%20&theme=neon-dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 ## 📊 GitHub Analytics
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Joshuannorom2005&show_icons=true&theme=neon-dark&hide_border=true&count_private=true" alt="Josh's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=JstMJosh&show_icons=true&theme=neon-dark&hide_border=true&count_private=true" alt="Josh's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshuannorom2005&layout=compact&theme=neon-dark&hide_border=true" alt="Top Languages" />
 </p>
 ### Humor your ribs
