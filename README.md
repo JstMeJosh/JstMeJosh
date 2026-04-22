@@ -25,5 +25,3 @@ I'm actively looking to collaborate on exciting web development projects. If you
 ### Humor your ribs
 - When you finally fix a bug...
 > console.log("It works on my machine!"); ~ Famous last words of every developer 😅
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&&vCenter=true&width=200&lines=Let's+build+something+amazing+together+💻✨)](https://git.io/typing-svg)
