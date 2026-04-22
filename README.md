@@ -24,32 +24,29 @@ I am a Software Developer driven by the challenge of architecting scalable, prod
 ---
 
 ## 🎯 Architectural Roadmap
-*The path from Developer to Systems Architect.*
+*The structured path toward seniority.*
 
-- [x] **MERN Stack Mastery:** Building and deploying full-stack production apps.
-- [x] **Secure Auth Patterns:** Implementing JWT, OTP, and Bcrypt security.
-- [ ] **DevOps & Cloud:** Mastering Docker, CI/CD, and AWS/Vercel deployments.
-- [ ] **TypeScript Conversion:** Transitioning entire stack to strictly typed systems.
-- [ ] **System Design:** Studying load balancing, microservices, and distributed systems.
+- [x] **MERN Stack Mastery:** Building and deploying production-ready web solutions.
+- [x] **Security Architect:** Implementing JWT, OTP, and Bcrypt security layers.
+- [ ] **TypeScript:** Transitioning from JS to type-safe system architecture.
+- [ ] **Mobile Expansion:** Entering the React Native ecosystem for cross-platform solutions.
+- [ ] **DevOps:** Mastering Docker, CI/CD, and scalable cloud infrastructure.
 
 ---
 
 ## 📈 Technical Proficiency
 
-**Frontend Fundamentals (HTML5/CSS3)**
+**HTML5 / CSS3**
 ![90%](https://img.shields.io/badge/Progress-█████████░-E34F26?style=flat-square) **90%**
 
 **JavaScript Logic (ES6+)**
 ![85%](https://img.shields.io/badge/Progress-████████░░-F7DF1E?style=flat-square) **85%**
 
-**React Framework & Tailwind**
+**React & Web Ecosystem**
 ![80%](https://img.shields.io/badge/Progress-████████░░-61DAFB?style=flat-square) **80%**
 
 **Node.js & Backend Architecture**
 ![75%](https://img.shields.io/badge/Progress-███████░░░-339933?style=flat-square) **75%**
-
-**MongoDB & System Design**
-![70%](https://img.shields.io/badge/Progress-███████░░░-47A248?style=flat-square) **70%**
 
 ---
 
@@ -60,12 +57,15 @@ I am a Software Developer driven by the challenge of architecting scalable, prod
 
 ---
 
-## 📬 Let's Connect
-- 🟢 **WhatsApp:** [+2349122656254](https://wa.me/2349122656254)
-- 📞 **Call:** [+2349122656254](tel:+2349122656254)
-- 📧 **Email:** [Joshuannorom2005@gmail.com](mailto:Joshuannorom2005@gmail.com)
+### 💡 Developer Wisdom
+> **"The best way to get a project done faster is to start sooner."**
 
 ---
 
-### 💡 Developer Wisdom
-> **"Code is like humor. When you have to explain it, it’s bad."**
+<p align="center">
+<a href="https://wa.me/2349122656254"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="mailto:Joshuannorom2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="tel:+2349122656254"><img src="https://img.shields.io/badge/Call_Me-0078D4?style=for-the-badge&logo=microsoft-teams&logoColor=white" /></a>
+<br>
+<b>Let's connect and build something extraordinary! 🚀</b>
+</p>
