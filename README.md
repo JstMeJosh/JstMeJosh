@@ -1,14 +1,15 @@
 ## Hi there 👋
-![MERN Stack](https://img.shields.io/badge/MERN-Stack-28a745?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 # 👋 Hello, I'm JstMeJosh
 
 ## 👨‍💻 About Me
 I'm a passionate Junior MERN Stack Developer with a growing love for all things programming. Whether it's building sleek front-end interfaces or crafting robust back-end systems, I'm always eager to learn and level up.
+
+![MERN Stack](https://img.shields.io/badge/MERN-Stack-28a745?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## 🚀 Interests
 - Web development (front-end & back-end)
