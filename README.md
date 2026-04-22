@@ -8,6 +8,7 @@
 ## 👨‍💻 About Me
 I'm a passionate Junior MERN Stack Developer with a growing love for all things programming. Whether it's building sleek front-end interfaces or crafting robust back-end systems, I'm always eager to learn and level up.
 
+?logo=htmlvs5
 ## 🚀 Interests
 - Web development (front-end & back-end)
 - Open-source contributions
