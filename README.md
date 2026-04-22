@@ -1,7 +1,6 @@
 ## Hi there 👋
 ![grok-image-4922bd78-5a6a-4a80-8d2d-c3139833029c (1)](https://github.com/user-attachments/assets/70feb08f-13c7-48e8-a94b-57bef9770be0)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Hello,+and+welcome+)](https://git.io/typing-svg)
 
 # 👋 Hello, I'm @JstMeJosh
 
@@ -27,5 +26,5 @@ I'm actively looking to collaborate on exciting web development projects. If you
 - When you finally fix a bug...
 > console.log("It works on my machine!"); ~ Famous last words of every developer 😅
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Let's+build+something+amazing+together+💻✨)](https://git.io/typing-svg)
 
-Let’s build something amazing together 💻✨
