@@ -1,64 +1,66 @@
 # 👋 Hello, I'm JstMeJosh
-**Aspiring Full-Stack Architect | MERN Stack Specialist**
+**MERN Stack Developer | Aspiring Full-Stack Architect | Problem Solver**
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=JstMeJosh&color=green&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=JstMeJosh&color=39FF14&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
+---
+
 ## 👨‍💻 About Me
-I'm a passionate **MERN Stack Developer** and a student at the University of Lagos. I focus on building production-ready systems with clean architecture, moving beyond "vibe coding" to engineered solutions. Currently, I'm diving deep into system design and scalable backend patterns.
+I'm a dedicated **Software Developer** focused on the MERN stack, currently pursuing my studies at the University of Lagos. I specialize in building scalable web applications and am currently transitioning from writing functional code to mastering **System Design and Architecture**.
+
+- 🔭 I’m currently working on building secure, production-ready backend systems.
+- 🌱 I’m currently learning **System Design**, **Advanced Security Patterns**, and **Scalable Database Indexing**.
+- 👯 I’m looking to collaborate on open-source projects and high-impact web solutions.
+- ⚡ Fun fact: I spend as much time naming my variables as I do writing the actual logic.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-**Frontend & Styling**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend & Database**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Utilities & Validation**
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Axios](https://img.shields.io/badge/axios-671ddf?style=for-the-badge&logo=axios&logoColor=white)
-![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
-
----
-
-## 🚀 Featured Project
-### [SkillSwap Marketplace](https://github.com/JstMeJosh/SkillSwap)
-*A peer-to-peer knowledge exchange platform.*
-- **Features:** JWT Authentication, React Auth Context, Axios Interceptors.
-- **Backend:** Node.js with Express and MongoDB.
-- **Validation:** Strict data integrity using Zod.
+<p align="left">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <br>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/axios-671ddf?style=for-the-badge&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
 ## 📊 GitHub Analytics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JstMeJosh&show_icons=true&theme=neon&hide_border=true&hide=grade&count_private=true" alt="Josh's Stats" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JstMeJosh&layout=compact&theme=neon&hide_border=true" alt="Top Languages" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JstMeJosh&show_icons=true&theme=neon&hide_border=true&hide=grade&count_private=true" alt="Josh's Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JstMeJosh&layout=compact&theme=neon&hide_border=true" alt="Top Languages" height="180px" />
 </p>
 
-### 📈 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=JstMeJosh&theme=neon-dark&exclude_days=Sun,Sat&hide_border=true)
+### 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JstMeJosh&theme=neon-dark&hide_border=true" alt="GitHub Streak" width="100%" />
+</p>
+
+### 🐍 My Contributions in Motion
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JstMeJosh/JstMeJosh/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JstMeJosh/JstMeJosh/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JstMeJosh/JstMeJosh/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
-## 🔭 Currently Working On
-- ⚡ Mastering Advanced Middleware Patterns in Express.
-- 🔐 Implementing OTP and secure password hashing strategies.
-- 📐 Learning System Architecture for high-traffic apps.
-
-## 🤝 Collaboration & Contact
-I'm looking to collaborate on **Open Source MERN projects** and real-world web solutions.
+## 📬 Let's Connect
+I'm always open to discussing new projects or career opportunities.
 - 🟢 **WhatsApp:** [+2349122656254](https://wa.me/2349122656254)
 - 📞 **Call:** [+2349122656254](tel:+2349122656254)
+- 📧 **Email:** [Joshuannorom2005@gmail.com](mailto:Joshuannorom2005@gmail.com)
 
-### Humor your ribs
-- When you finally fix a bug...
-> console.log("It works on my machine!"); ~ Famous last words of every developer 😅
+---
+
+### 💡 Developer Wisdom
+> **Why do programmers prefer dark mode?** > Because light attracts bugs! 🪳🚫
