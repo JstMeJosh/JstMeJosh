@@ -28,7 +28,7 @@ I am a Software Developer driven by the challenge of architecting scalable, prod
 
 - [x] **MERN Stack Mastery:** Building and deploying production-ready web solutions.
 - [x] **Security Architect:** Implementing JWT, OTP, and Bcrypt security layers.
-- [ ] **TypeScript:** Transitioning from JS to type-safe system architecture.
+- [] **TypeScript:** Transitioning from JS to type-safe system architecture.
 - [ ] **Mobile Expansion:** Entering the React Native ecosystem for cross-platform solutions.
 - [ ] **DevOps:** Mastering Docker, CI/CD, and scalable cloud infrastructure.
 
