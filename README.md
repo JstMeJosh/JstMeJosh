@@ -51,10 +51,7 @@ I am a Software Developer driven by the challenge of architecting scalable, prod
 ---
 
 ## 📊 Developer Metrics
-
-| **Language Analytics** | **Coding Consistency** |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JstMeJosh&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=6" alt="Top Languages" height="170px" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=JstMeJosh&theme=vision-friendly-dark&hide_border=true" alt="JstMeJosh Streak" height="170px" /> |
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JstMeJosh&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=6" alt="Top Languages" height="170px" /> 
 
 ---
 
